@@ -4,9 +4,9 @@
 
 Clone this repository
 
-'''bash
+```bash
 git clone https://github.com/nvanderperren/PAN_concepts_CSV.git && cd PAN_concepts_CSV
-'''
+```
 
 Export all PAN concepts from https://data.cultureelerfgoed.nl/term/id/pan/PAN.html and save it as `response.json` in the `PAN_concepts_CSV` folder.
 
