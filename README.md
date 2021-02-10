@@ -1,4 +1,4 @@
-# PAN for MEDEA
+# PAN for MEDEA Middeleeuws Metaal
 
 ## Getting started
 
@@ -20,4 +20,4 @@ python3 script.py
 
 ## Results
 
-A `pan_data.csv` with all concepts for MEDEA.
+A `pan_data.csv` with all medieval (950-1500) concepts for MEDEA Middeleeuws Metaal.
